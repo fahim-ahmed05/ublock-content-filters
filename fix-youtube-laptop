@@ -2,8 +2,8 @@
 ! Description: Streamline YouTube by showing 5 videos per row, reducing font size, and removing Shorts, members-only content, and clutter from the homepage and search results.
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2025.05.11
-! Last updated: 2025-05-11
+! Version: 2025.06.07
+! Last updated: 2025-06-07
 ! Expires: 15 days
 
 ! === Layout: More videos per row ===
