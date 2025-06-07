@@ -1,5 +1,5 @@
 ! Title: Fix YouTube – Clean Layout & Remove Shorts (Laptop)
-! Description: Streamline YouTube by showing 5 videos per row, reducing font size, and removing Shorts, members-only content, and clutter from the homepage and search results.
+! Description: Streamline YouTube by showing 4 videos per row, reducing font size, and removing Shorts, members-only content, and clutter from the homepage and search results.
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
 ! Version: 2025.06.07
