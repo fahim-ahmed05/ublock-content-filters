@@ -1,9 +1,9 @@
-! Title: Fix YouTube – Clean Layout & Remove Shorts
-! Description: Streamline YouTube members-only content, and clutter from the homepage.
+! Title: Fix YouTube Lite – Remove Posts, Upcoming, and Members-Only videos
+! Description: Clutter-free YouTube experience by removing "Upcoming" videos, posts from the homepage, and members-only content.
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2025.06.22
-! Last updated: 2025-06-22
+! Version: 2025.07.03
+! Last updated: 2025-07-03
 ! Expires: 15 days
 
 ! === Remove "Upcoming" videos ===
