@@ -26,6 +26,10 @@ www.reddit.com##alert-controller
 auth.ente.io##.css-1dao61.MuiTypography-body.MuiTypography-root
 auth.ente.io##[href="https://github.com/ente-io/ente/tree/main/auth#-download"]
 
-! mail.yandex.com - Remove ads and promotions
+! mail.yandex.com - Hide ads and promotions
 mail.yandex.com##.bJS8eclaVO9GoTGIailmH6ZI.bHTVUaUikO9GxRH5Bl1aU
 mail.yandex.com##.bCzVBZFaTGNSqTA
+
+! music.amazon.com - Hide ads and promotions
+music.amazon.com##.hydrated.QVov3Mdr58AmJTiXczwyT
+music.amazon.com##music-container.hydrated:nth-of-type(2)
