@@ -2,8 +2,8 @@
 ! Description: Removes annoying elements from websites
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2025.6.4
-! Last modified: 2025-6-4
+! Version: 2025.7.3
+! Last modified: 2025-7-3
 ! Expires: 15 days
 
 ! raindrop.io - Hide upgrade banner in the sidebar
@@ -25,3 +25,7 @@ www.reddit.com##alert-controller
 ! ente.io - Hide the download button
 auth.ente.io##.css-1dao61.MuiTypography-body.MuiTypography-root
 auth.ente.io##[href="https://github.com/ente-io/ente/tree/main/auth#-download"]
+
+! mail.yandex.com - Remove ads and promotions
+mail.yandex.com##.bJS8eclaVO9GoTGIailmH6ZI.bHTVUaUikO9GxRH5Bl1aU
+mail.yandex.com##.bCzVBZFaTGNSqTA
