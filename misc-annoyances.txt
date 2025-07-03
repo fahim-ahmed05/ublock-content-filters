@@ -33,3 +33,6 @@ mail.yandex.com##.bCzVBZFaTGNSqTA
 ! music.amazon.com - Hide ads and promotions
 music.amazon.com##.hydrated.QVov3Mdr58AmJTiXczwyT
 music.amazon.com##music-container.hydrated:nth-of-type(2)
+
+! open.spotify.com - Hide signup banner
+open.spotify.com##.dz_h98rH9nZCwfPdnKgr
