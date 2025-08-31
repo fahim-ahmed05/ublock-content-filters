@@ -1,0 +1,12 @@
+! Title: Fix YouTube – Hide Posts
+! Description: Hide posts on youtube homepage.
+! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
+! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
+! Version: 2025.08.31
+! Last updated: 2025-08-31
+! Expires: 15 days
+
+! === Remove posts from homepage ===
+www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:has(ytd-rich-item-renderer[is-post])
+www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer[is-post]
+
