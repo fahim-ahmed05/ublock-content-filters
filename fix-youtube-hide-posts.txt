@@ -6,7 +6,13 @@
 ! Last updated: 2025-08-31
 ! Expires: 15 days
 
+! === General Cleanup ===
+youtube.com##ytd-rich-section-renderer
+
 ! === Remove posts from homepage ===
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:has(ytd-rich-item-renderer[is-post])
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer[is-post]
 
+! === Remove unnecessary UI elements ===
+youtube.com##.ytp-button.branding-img-container
+youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
