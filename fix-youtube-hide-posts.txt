@@ -2,8 +2,8 @@
 ! Description: Hide posts on youtube homepage.
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2025.08.31
-! Last updated: 2025-08-31
+! Version: 2025.09.21
+! Last updated: 2025-09-21
 ! Expires: 15 days
 
 ! === General Cleanup ===
@@ -12,6 +12,9 @@ youtube.com##ytd-rich-section-renderer
 ! === Remove posts from homepage ===
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:has(ytd-rich-item-renderer[is-post])
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer[is-post]
+
+! === Remove members-only videos ===
+www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
 
 ! === Remove unnecessary UI elements ===
 youtube.com##.ytp-button.branding-img-container
