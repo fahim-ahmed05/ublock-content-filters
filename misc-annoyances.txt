@@ -2,8 +2,8 @@
 ! Description: Removes annoying elements from websites
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2025.7.3
-! Last modified: 2025-7-3
+! Version: 2025.11.1
+! Last modified: 2025-11-1
 ! Expires: 15 days
 
 ! raindrop.io - Hide upgrade banner in the sidebar
