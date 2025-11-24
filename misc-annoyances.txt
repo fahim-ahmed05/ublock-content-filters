@@ -2,8 +2,8 @@
 ! Description: Removes annoying elements from websites
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2025.11.20
-! Last modified: 2025-11-20
+! Version: 2025.11.24
+! Last modified: 2025-11-24
 ! Expires: 15 days
 
 ! raindrop.io - Hide upgrade banner in the sidebar
@@ -33,6 +33,8 @@ open.spotify.com##.dz_h98rH9nZCwfPdnKgr
 ! x.com
 x.com##.r-1ny4l3l.r-1wbh5a2.r-16y2uox.css-175oi2r > div.css-175oi2r > .r-1ifxtd0.css-175oi2r
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(4)
 
 ! trakt.tv - Hide vip banner
 app.trakt.tv##.svelte-15bkar1.trakt-vip-upsell
