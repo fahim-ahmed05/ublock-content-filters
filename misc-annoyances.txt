@@ -34,6 +34,7 @@ open.spotify.com##.dz_h98rH9nZCwfPdnKgr
 x.com##.r-1ny4l3l.r-1wbh5a2.r-16y2uox.css-175oi2r > div.css-175oi2r > .r-1ifxtd0.css-175oi2r
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(4)
 x.com##.r-nsbfu8.r-1xpp3t0.r-1q9bdsx.r-1eltapf.css-175oi2r
 
