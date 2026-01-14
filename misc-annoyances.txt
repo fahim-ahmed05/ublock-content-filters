@@ -40,3 +40,6 @@ x.com##.r-nsbfu8.r-1xpp3t0.r-1q9bdsx.r-1eltapf.css-175oi2r
 
 ! trakt.tv - Hide vip banner
 app.trakt.tv##.svelte-15bkar1.trakt-vip-upsell
+
+! chatgpt.com - Hide annoying banner
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
