@@ -1,9 +1,9 @@
-! Title: Misc. Site Annoyances
+! Title: Hide Annoyances
 ! Description: Removes annoying elements from websites
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2025.11.26
-! Last modified: 2025-11-26
+! Version: 2026.01.15
+! Last modified: 2026-01-15
 ! Expires: 15 days
 
 ! raindrop.io - Hide upgrade banner in the sidebar
