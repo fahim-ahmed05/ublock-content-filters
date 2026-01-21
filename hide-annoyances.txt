@@ -2,8 +2,8 @@
 ! Description: Removes annoying elements from websites
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2026.01.20
-! Last modified: 2026-01-20
+! Version: 2026.01.21
+! Last modified: 2026-01-21
 ! Expires: 15 days
 
 ! raindrop.io - Hide upgrade banner in the sidebar
@@ -43,4 +43,4 @@ app.trakt.tv##.svelte-15bkar1.trakt-vip-upsell
 
 ! chatgpt.com - Hide annoying banners
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
-||accounts.google.com/gsi/iframe/select?client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&auto_select=false&ux_mode=popup&ui_mode=card&as=qEKWH1FtL2VD7KA_ZmbOO_9dIMpsLum7k7--AI2tjD0&bs=kgVsRMpOHkmyfqS7GddJ0xSTxR%2BaZjid7XaQSvLKRJw&is_itp=true&channel_id=656d141071c9d8bdc02067fce8ea6ce526a2c236cc0a4f95c39e762804732c02&origin=https%3A%2F%2Fchatgpt.com&oauth2_auth_url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth$subdocument
+chatgpt.com###google-one-tap-anchor
