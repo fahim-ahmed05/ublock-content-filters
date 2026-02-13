@@ -2,8 +2,8 @@
 ! Description: Removes annoying elements from websites
 ! Homepage: https://github.com/fahim-ahmed05/ublock-content-filters
 ! License: https://github.com/fahim-ahmed05/ublock-content-filters/blob/main/LICENSE
-! Version: 2026.01.21
-! Last modified: 2026-01-21
+! Version: 2026.02.13
+! Last modified: 2026-02-13
 ! Expires: 15 days
 
 ! raindrop.io - Hide upgrade banner in the sidebar
@@ -44,3 +44,6 @@ app.trakt.tv##.svelte-15bkar1.trakt-vip-upsell
 ! chatgpt.com - Hide annoying banners
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
 chatgpt.com###google-one-tap-anchor
+
+! prothomalo.com - Hide cookie banner
+www.prothomalo.com##.gdpr-wrapper
